@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Verification de la presence d arguments
-if [ $# -eq @ ];
+if [ $# -eq 0 ];
 then
     echo "Il manque les noms d'utilisateurs en argument - fin du script"
     exit 1

@@ -7,10 +7,11 @@
 ![Capture d’écran 2024-10-25 100437](https://github.com/user-attachments/assets/8621d2a1-0304-436b-9daa-126d901afd88)
 ![Capture d’écran 2024-10-25 100853](https://github.com/user-attachments/assets/7c43a0c9-12b4-41a9-b649-7123ed4ee4b0)
 ![Capture d’écran 2024-10-25 102553](https://github.com/user-attachments/assets/e37e08f0-eb37-42e1-a32f-4103b1f48426)
-  - Je dois retirer le # devant la ligne "# UUID=c38d85be-1c7a-427c-8be8-a78483a16bb1 none swap sw 0 0"
+  
 
 
 # Exercice 1.2
 ![Capture d’écran 2024-10-25 101302](https://github.com/user-attachments/assets/a1de7533-9aa2-4e6b-881c-015c5dc0f500)
 ![Capture d’écran 2024-10-25 103635](https://github.com/user-attachments/assets/c73c7942-c358-499e-962f-d009ba734b8d)
+  - - Je dois retirer le # devant la ligne "# UUID=c0a3c695-9fc2-4b3c-898a-a37b0a1c821e / ext4 errors=remount-r0 1"
 ![Capture d’écran 2024-10-25 103748](https://github.com/user-attachments/assets/4dc61941-93b7-4fc8-95e6-0198db3ae071)

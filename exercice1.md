@@ -7,6 +7,7 @@
 ![Capture d’écran 2024-10-25 100437](https://github.com/user-attachments/assets/8621d2a1-0304-436b-9daa-126d901afd88)
 ![Capture d’écran 2024-10-25 100853](https://github.com/user-attachments/assets/7c43a0c9-12b4-41a9-b649-7123ed4ee4b0)
 ![Capture d’écran 2024-10-25 102553](https://github.com/user-attachments/assets/e37e08f0-eb37-42e1-a32f-4103b1f48426)
+  - Je dois retirer le # devant la ligne "# swap now on /dev/sdb2"
 
 
 # Exercice 1.2
